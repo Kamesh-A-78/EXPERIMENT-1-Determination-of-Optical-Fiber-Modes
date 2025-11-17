@@ -64,3 +64,5 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 
 ## Result
+![WhatsApp Image 2025-11-17 at 6 03 53 PM](https://github.com/user-attachments/assets/d652d133-e2ea-443f-979f-5fae8a35eefd)
+
